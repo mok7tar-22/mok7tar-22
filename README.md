@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mokhtar Mohamed</h1>
 <h3 align="center">A Flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mok7tar-22&label=Profile%20views&color=0e75b6&style=flat" alt="mok7tar-22" /> </p>
+- I am working on [news_app](https://github.com/mok7tar-22/news_app)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mok7tar-22" alt="mok7tar-22" /></a> </p>
+- I am working on [islami_app](https://github.com/mok7tar-22/islami_app)
 
 - 📫 How to reach me **mok7tar22@gmail.com**
 
