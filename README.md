@@ -1,19 +1,34 @@
-/*
-<h1 align="center">Hi 👋, I'm Mokhtar Mohamed</h1>
-<h3 align="center">A Flutter developer</h3>
+<h2> Hi there I'm Mokhtar Mohamed 👋❤ </h2>
 
-- I am working on [news_app](https://github.com/mok7tar-22/news_app)
+<img src="https://firebasestorage.googleapis.com/v0/b/courseflutter-2d8c3.appspot.com/o/Images%2FHi%20there%20I'm%20Abanoub%20Ezzat%20(1).gif?alt=media&token=308bd46c-eec6-4be9-a5d5-bea1b1829e4e" style="width:500px;height:400px;" align="right">
+Education 🎓</br>
+Computer science and artificial
+intelligence Beni-Suef University  </br>
+<hr>
 
-- I am working on [islami_app](https://github.com/mok7tar-22/islami_app)
 
-- 📫 How to reach me **mok7tar22@gmail.com**
+<a href="https://www.linkedin.com/in/mokhtar-mohamed22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abanoubezzat50@gmail.com)](mailto:mok7tar22@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mok7tar-22&show_icons=true&locale=en&layout=compact" alt="mok7tar-22" /></p>
-*/
+</br>
+</br>
+⠀⠀
+⣴⠋⢁⡉⠉⠉⠀⣀⣀⡀⠀⢀⣐⣒⣒⣒⡂⠠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡇⡀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠁⠇⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⢠⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡜⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠇⡇⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢰⢠⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠤⠐⢊⣁⣧⡄⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⡈⡄⠡⡀⠀⠤⠄⠒⢂⣈⠡⣤⣲⣾⣿⣿⢿⢿⣛⠵⣯⢥⣒⠢⠄⣀⠀⠀
+⠀⠀⢃⢡⣀⠠⠄⢒⣂⡭⣰⢦⣟⡮⢽⣚⡯⣜⠸⢛⣯⡵⠞⠋⠁⠀⠀⠀⢈⠵
+⠀⠀⠈⣝⠣⡀⠪⣹⢢⠟⢫⠩⡖⡏⠽⢒⣩⣴⢾⠿⠛⠉⠢⡀⠀⢀⠤⠊⡡⠐
+⠀⠀⠀⠈⠢⡈⠢⡈⠲⡩⢝⣊⣧⡾⠜⠊⡗⠋⠀⠀⣀⠄⡊⠔⢊⠠⠒⠁⠀⠀
+⠀⠀⠀⠀⠀⠈⠢⡈⠢⡈⠉⠉⠁⠀⠀⠀⠈⠂⢐⡨⠐⣉⠄⠊⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠂⢌⠒⢄⠀⠀⢀⡠⠔⢊⡡⠔⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠠⣉⣈⡡⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀
