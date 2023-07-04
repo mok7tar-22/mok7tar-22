@@ -1,6 +1,6 @@
 <h2> Hi there I'm Mokhtar Mohamed 👋❤ </h2>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/courseflutter-2d8c3.appspot.com/o/Images%2FHi%20there%20I'm%20Abanoub%20Ezzat%20(1).gif?alt=media&token=308bd46c-eec6-4be9-a5d5-bea1b1829e4e" style="width:500px;height:400px;" align="right">
+
 Education 🎓</br>
 Computer science and artificial
 intelligence Beni-Suef University  </br>
