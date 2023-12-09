@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mokhtar Mohamed</h1>
 <h3 align="center">A Flutter developer</h3>
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently flutter dveloper
 - 👯 I’m looking to collaborate on big projects with big companies
